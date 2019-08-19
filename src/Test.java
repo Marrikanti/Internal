@@ -22,6 +22,7 @@ public class Test {
 				
 			}
 			System.out.println("Big "+ big + " small " +small) ;
+			System.out.println("Thanks");
 			
 		}
 	}
